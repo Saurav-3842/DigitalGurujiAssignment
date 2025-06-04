@@ -21,6 +21,7 @@ A simple backend system for scheduling email campaigns using Node.js, Express, a
 git clone https://github.com/Saurav-3842/DigitalGurujiAssignment.git
 
 npm install
+npm run dev
 ```
 ## To Add Dummy Lead
 
@@ -28,12 +29,12 @@ run the seed file to add dummy leads
 ```bash
 node seed.js
 ```
-##API Endpoints
+## API Endpoints
 POST /api/campaigns: Create a campaign
 
 GET /api/leads/:userId: Get leads for a user
 
 POST /api/leads: Create leads
 
-##Project Live on [Render](https://digitalgurujiassignment.onrender.com)
+## Project Live on [Render](https://digitalgurujiassignment.onrender.com)
 
