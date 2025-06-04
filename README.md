@@ -21,6 +21,7 @@ A simple backend system for scheduling email campaigns using Node.js, Express, a
 git clone https://github.com/Saurav-3842/DigitalGurujiAssignment.git
 
 npm install
+//add env variables from .env.example
 npm run dev
 ```
 ## To Add Dummy Lead
